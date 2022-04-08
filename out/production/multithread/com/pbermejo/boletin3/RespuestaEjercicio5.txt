@@ -1,0 +1,2 @@
+La clase EX05LetrasHilos lanza un hilo por cada caracter de una cadena.
+El hilo detiene su ejecución durante un tiempo aleatorio y muestra el caracter que se le pasa.
